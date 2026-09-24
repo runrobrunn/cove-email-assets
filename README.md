@@ -1,2 +1,4 @@
-# cove-email-assets
-Public static assets for Cove Research transactional emails (not production app)
+# Cove Research email assets
+
+Public static imagery for Cove Research transactional / marketing emails.
+Not the production coveresearch.is application.
